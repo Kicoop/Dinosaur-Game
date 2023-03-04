@@ -4,6 +4,13 @@ This is the final project made by the BOANG Inc.
 
 This is a work in progress, expect delays and corrupt files
 
+INSTRUCTIONS:
+
+1. OPEN VSCODE AND COPY PASTE ALL THE SOURCE CODES
+2. ALL THE PNG AND WAV IMPORTED SHOULD BE IN A FOLDER THAT IS NAMED "data"
+3. OPEN THE FILE EXPLORER IN THE SRC AND DRAG THE FOLDER INSIDE
+
+
 Thank you for choosing the BOANG Inc.
 
 <div>
