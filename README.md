@@ -9,6 +9,10 @@ INSTRUCTIONS:
 1. OPEN VSCODE AND COPY PASTE ALL THE SOURCE CODES
 2. ALL THE PNG AND WAV IMPORTED SHOULD BE IN A FOLDER THAT IS NAMED "data"
 3. OPEN THE FILE EXPLORER IN THE SRC AND DRAG THE FOLDER INSIDE
+  
+  Below is the sample gameplay of the game
+  
+![image](https://user-images.githubusercontent.com/119907392/222869096-bc380a79-f035-4750-b892-bb2be503ef7d.png)
 
 
 Thank you for choosing the BOANG Inc.
