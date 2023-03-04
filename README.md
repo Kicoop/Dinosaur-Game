@@ -12,7 +12,8 @@ INSTRUCTIONS:
   
   Below is the sample gameplay of the game
   
-![image](https://user-images.githubusercontent.com/119907392/222869096-bc380a79-f035-4750-b892-bb2be503ef7d.png)
+![image](https://user-images.githubusercontent.com/119907392/222869167-19f1ac4b-1b69-4edc-af8b-8ce6a0a904c9.png)
+
 
 
 Thank you for choosing the BOANG Inc.
