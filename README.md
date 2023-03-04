@@ -4,6 +4,10 @@ This is the final project made by the BOANG Inc.
 
 This is a work in progress, expect delays and corrupt files
 
+Missing Parts:
+1. Main Menu
+2. Difficulty level
+
 INSTRUCTIONS:
 
 1. OPEN VSCODE AND COPY PASTE ALL THE SOURCE CODES
