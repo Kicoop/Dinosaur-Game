@@ -4,7 +4,7 @@ public class GameWindow extends JFrame {
 public static final int SCREEN_WIDTH = 600;
 private GameScreen gameScreen;
 public GameWindow() {
-super("Google Chrome offline game");
+super("Dinosaur Game");
 setSize(SCREEN_WIDTH, 175);
 setLocation(400, 200);
 setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
