@@ -18,6 +18,6 @@ setVisible(true);
 gameScreen.startGame();
 }
 public static void main(String args[]) {
-(new GameWindow()).startGame();
+new MainMenu();
 }
 }
